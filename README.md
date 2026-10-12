@@ -1,0 +1,2 @@
+# ajawebe.github.io
+stranka
