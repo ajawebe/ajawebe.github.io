@@ -1,2 +1,1 @@
-nic
-[CV](CV.pdf)
+read my CV here (don't): [CV](CV.pdf)
